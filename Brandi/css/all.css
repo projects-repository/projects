@@ -136,7 +136,7 @@ ul {
 	left: 0;
 	right: 0;
 	z-index: 3;
-	background-color: rgb(6, 32, 51);
+	background-color: #062033;
 }
 .header {
 	max-width: 1175px;
@@ -197,13 +197,13 @@ ul {
 }
 .navigation a {
 	display: block;
-	color: rgb(150, 174, 188);
+	color: #96aebc;
 	padding: 5px 15% 15px;
 	text-align: center;
 }
 .navigation li {
 	margin-bottom: 10px;
-	border-bottom: 1px solid rgb(135, 156, 160);
+	border-bottom: 1px solid #879ca0;
 }
 .navigation li:last-child {
 	border-bottom: none;
@@ -211,7 +211,7 @@ ul {
 }
 /*first-gallery*/
 .main-gallery {
-	background-color: rgb(0, 0, 0);
+	background-color: #000;
 }
 .gallery {
 	overflow: hidden;
@@ -245,24 +245,24 @@ ul {
 }
 .main-gallery-inner h1 {
 	font-size: 48px;
-	color: rgb(255, 255, 255);
+	color: #fff;
 	text-transform: capitalize;
 	padding-top: 35px;
 }
 .important {
 	font-weight: 300;
-	color: rgb(255, 255, 255);
+	color: #fff;
 }
 .main-gallery-inner h2 {
 	font-size: 38px;
 	font-weight: 300;
-	color: rgb(15, 235, 158);
+	color: #0feb9e;
 	padding-bottom: 19px;
 }
 .tales {
 	font-size: 18px;
 	font-weight: 300;
-	color: rgb(255, 255, 255);
+	color: #fff;
 	display: inline-block;
 	position: relative;
 	max-width: 1000px;
@@ -273,7 +273,7 @@ ul {
 	content: "";
 	width: 30px;
 	height: 2px;
-	background-color: rgb(15, 235, 158);
+	background-color: #0feb9e;
 	position: absolute;
 	top: 50%;
 	left: -60px;
@@ -282,7 +282,7 @@ ul {
 	content: "";
 	width: 30px;
 	height: 2px;
-	background-color: rgb(15, 235, 158);
+	background-color: #0feb9e;
 	position: absolute;
 	top: 50%;
 	right: -60px;
@@ -321,7 +321,7 @@ ul {
 .pagination ul li {
 	width: 9px;
 	height: 9px;
-	background-color: rgb(255, 255, 255);
+	background-color: #fff;
 	border-radius: 50%;
 	margin: 15px;
 	text-indent: -9999px;
@@ -350,7 +350,7 @@ ul {
 }
 .sub-gallery1 .pagination .active,
 .sub-gallery2 .pagination .active {
-	background-color: rgb(6, 32, 51);
+	background-color: #062033;
 }
 .pagination li:before {
 	content: "";
@@ -369,7 +369,7 @@ ul {
 h1 {
 	text-transform: uppercase;
 	font-size: 28px;
-	color: rgb(14, 180, 147);
+	color: #0eb493;
 	font-weight: 800;
 	max-width: 500px;
 	margin: 0 auto;
@@ -397,12 +397,12 @@ h1 {
 }
 .sub-gallery1-inner h2 {
 	font-size: 20px;
-	color: rgb(6, 32, 51);
+	color: #062033;
 	font-weight: 600;
 	padding-bottom: 12px;
 }
 .sub-gallery1 {
-	background-color: rgb(244, 247, 249);
+	background-color: #f4f7f9;
 	padding: 70px 8px 4px 8px;
 }
 .sub-gallery1 .slide {
@@ -430,9 +430,9 @@ h1 {
 	left: -2px;
 	font-size: 20px;
 	line-height: 1.2;
-	color: rgb(14, 180, 147);
+	color: #0eb493;
 	padding: 7px 6px;
-	border: 1px solid rgb(14, 180, 147);
+	border: 1px solid #0eb493;
 	border-radius: 50%;
 }
 /*tabs-block*/
@@ -467,7 +467,7 @@ h1 {
 	position: absolute;
 	top: 25%;
 	left: 50%;
-	border: 1px solid rgb(255, 255, 255);
+	border: 1px solid #fff;
 	border-radius: 50%;
 	padding: 11px 9px;
 	margin-left: -20px;
@@ -482,7 +482,7 @@ h1 {
 	overflow: hidden;
 }
 .tab-list .tab {
-	background-color: rgb(255, 255, 255);
+	background-color: #fff;
 }
 .tabset {
 	position: relative;
@@ -497,15 +497,15 @@ h1 {
 }
 .tabset a {
 	font-size: 14px;
-	color: rgb(6, 32, 51);
+	color: #062033;
 	padding: 5px 10px;
 	font-weight: 600;
 	display: inline-block;
 }
 .tabset li.active a,
 .tabset a.active {
-	color: rgb(255, 255, 255);
-	background-color: rgb(14, 180, 147);
+	color: #fff;
+	background-color: #0eb493;
 	border-radius: 6px;
 	text-align: center;
 }
@@ -536,7 +536,7 @@ h1 {
 	display: inline-block;
 	margin: 5px 0 5px 1px;
 	padding: 10px 8px;
-	color: rgb(255, 255, 255);
+	color: #fff;
 	background-color: rgba(0, 0, 0, .3);
 }
 .team-photo-name span {
@@ -546,7 +546,7 @@ h1 {
 	margin: 10px 0;
 }
 .team-photo-name span:first-child {
-	color: rgb(6, 32, 51);
+	color: #062033;
 	font-weight: 600;
 	font-size: 18px;
 	margin-top: 18px;
@@ -576,7 +576,7 @@ h1 {
 }
 .info-column {
 	text-align: center;
-	color: rgb(255, 255, 255);
+	color: #fff;
 	text-transform: uppercase;
 	padding: 0 8px 20px;
 	margin-bottom: 35px;
@@ -587,7 +587,7 @@ h1 {
 }
 .icon {
 	font-size: 38px;
-	color: rgb(255, 255, 255);
+	color: #fff;
 	display: inline-block;
 	border: 2px solid rgba(255, 255, 255, .4);
 	padding: 45px;
@@ -613,17 +613,17 @@ h1 {
 .address-column h2 {
 	font-size: 22px;
 	font-weight: 400;
-	color: rgb(6, 32, 51);
+	color: #062033;
 	margin-bottom: 10px;
 }
 .address {
 	font-style: normal;
 	font-size: 13px;
-	color: rgb(106, 115, 123);
+	color: #6a737b;
 	line-height: 1.85;
 }
 .address a {
-	color: rgb(106, 115, 123);
+	color: #6a737b;
 }
 .address span {
 	display: block;
@@ -674,7 +674,7 @@ input-placeholder {
 	padding: 5px 10px;
 	font-size: 18px;
 	line-height: 1;
-	color: rgb(91, 100, 110);
+	color: #5b646e;
 	font: 18px /1 'Open Sans', Helvetica, Arial, sans-serif;
 }
 .main-form input:focus,
@@ -691,14 +691,14 @@ input-placeholder {
 	background: none;
 	border: none;
 	cursor: pointer;
-	color: rgb(0, 0, 0);
+	color: #000;
 	font-size: 18px;
 	float: right;
 	outline: none;
 	margin-top: 27px;
 }
 .icon-font-mail {
-	color: rgb(14, 180, 147);
+	color: #0eb493;
 	font-size: 23px;
 	padding-right: 8px;
 }
@@ -710,7 +710,7 @@ input-placeholder {
 }
 /*map*/
 .map {
-	background-color: rgb(240, 240, 240);
+	background-color: #f0f0f0;
 }
 #map {
 	max-width: 1600px;
@@ -720,7 +720,7 @@ input-placeholder {
 /*footer*/
 .wrapper-footer {
 	background-color: rgba(33, 182, 151, .9);
-	border-top: 5px solid rgb(6, 32, 51);
+	border-top: 5px solid #062033;
 }
 .footer {
 	max-width: 1175px;
@@ -731,7 +731,7 @@ input-placeholder {
 div[class^="footer-block-"],
 nav[class^="footer-block-"] {
 	font-size: 13px;
-	color: rgb(255, 255, 255);
+	color: #fff;
 	line-height: 2;
 	margin-bottom: 25px;
 }
@@ -759,7 +759,7 @@ nav[class^="footer-block-"] {
 }
 .footer-block-pagination a {
 	font-size: 13px;
-	color: rgb(255, 255, 255);
+	color: #fff;
 	margin-bottom: 6px;
 	display: inline-block;
 }
@@ -767,7 +767,7 @@ nav[class^="footer-block-"] {
 	display: block;
 	position: relative;
 	max-width: 550px;
-	border: 2px solid rgb(255, 255, 255);
+	border: 2px solid #fff;
 	border-radius: 3px;
 	margin-bottom: 13px;
 }
@@ -785,7 +785,7 @@ nav[class^="footer-block-"] {
 	background-color: rgba(33, 182, 151, .1);
 	padding: 0 45px 0 8px;
 	width: 100%;
-	color: rgb(255, 255, 255);
+	color: #fff;
 	font: 16px /1 'Open Sans', Helvetica, Arial, sans-serif;
 }
 .wr-footer-input input[type="submit"] {
@@ -814,7 +814,7 @@ nav[class^="footer-block-"] {
 }
 .copyright a,
 .copyright {
-	color: rgb(6, 32, 51);
+	color: #062033;
 }
 .copyright-info {
 	position: relative;
@@ -832,7 +832,7 @@ nav[class^="footer-block-"] {
 }
 .footer-heart {
 	font-size: 20px;
-	color: rgb(21, 117, 98);
+	color: #157562;
 }
 @media only screen and (min-width: 481px) {
 	.tabs-row {
@@ -887,7 +887,7 @@ nav[class^="footer-block-"] {
 	}
 	.navigation li.activion,
 	.navigation li:hover {
-		border-top: 1px solid rgb(50, 176, 238);
+		border-top: 1px solid #32b0ee;
 		-webkit-transition: all .4s;
 		transition: all .4s;
 	}
@@ -947,7 +947,7 @@ nav[class^="footer-block-"] {
 		overflow: hidden;
 	}
 	.shadow {
-		color: rgb(255, 255, 255);
+		color: #fff;
 		padding: 39% 8px 8px;
 		text-align: center;
 		-webkit-transition: top .7s ease-out, background-color 3s;
@@ -984,7 +984,7 @@ nav[class^="footer-block-"] {
 		overflow: hidden;
 	}
 	.photo:hover+.team-photo-name span:first-child {
-		color: rgb(14, 180, 147);
+		color: #0eb493;
 	}
 	.team-photo:first-child {
 		margin-left: 0;
@@ -1028,7 +1028,7 @@ nav[class^="footer-block-"] {
 		margin-bottom: 29px;
 	}
 	.address a {
-		color: rgb(106, 115, 123);
+		color: #6a737b;
 	}
 	.main-form {
 		float: left;
